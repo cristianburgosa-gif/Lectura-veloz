@@ -1,0 +1,24 @@
+{
+  "name": "LecturaRápida",
+  "short_name": "LecturaRápida",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "description": "Ejercicios de velocidad lectora: RSVP, Pacer, Schulte, Periferia, Test, Comprensión y Plan diario.",
+  "icons": [
+    {
+      "src": "https://dummyimage.com/192x192/0f172a/ffffff.png&text=LR",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://dummyimage.com/512x512/0f172a/ffffff.png&text=LR",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
